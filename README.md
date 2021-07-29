@@ -1,4 +1,4 @@
-# flash_chat
+# Flutter Firebase
 
 A new Flutter project.
 
